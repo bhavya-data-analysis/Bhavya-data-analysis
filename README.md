@@ -52,6 +52,21 @@
 
 ## 📁 Featured Projects
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavya-data-analysis&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhavya-data-analysis&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-data-analysis&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/bhavya-data-analysis/bhavya-data-analysis/main/dist/github-contribution-grid-snake.svg)
+
+
 ### 🔹 AI-680 Labs (Artificial Intelligence – LIU)
 Implemented:
 - Search algorithms (UCS, BFS, DFS, A*)  
