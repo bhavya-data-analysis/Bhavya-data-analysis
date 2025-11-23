@@ -3,8 +3,8 @@
 <p align="center">
   Data Analytics Graduate Student @ LIU • Aspiring Data Analyst / ML Engineer • Python | Power BI | Machine Learning  
 </p>
-    #   👨‍💻 About Me
 
+## 👨‍💻 About Me
 - 🎓 Graduate student in **Data Analytics (Strategic Business Intelligence)** at LIU  
 - 🤖 Interested in **machine learning, analytics, and AI-powered decision-making**  
 - 🛠 Building ML models, dashboards, search algorithms, and university-level AI labs  
