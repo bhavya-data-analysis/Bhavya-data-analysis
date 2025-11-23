@@ -1,9 +1,15 @@
-# Hi, I’m Bhavya Pandya 👋
+<h1 align="center">  👋 Hi, I'm Bhavya Pandya</h1>
 
-🎓 I’m a Data Analytics graduate student at Long Island University (LIU).  
-📊 Skilled in **Python, R, SQL, Power BI, Machine Learning, AI, and Data Visualization**.  
-🧠 I work on real-world analytics and AI projects — from ML models to search algorithms and Bayesian networks.  
-🚀 Currently applying for **Summer 2026 Data Analyst roles**, and actively building my technical portfolio.
+<p align="center">
+  Data Analytics Graduate Student @ LIU • Aspiring Data Analyst / ML Engineer • Python | Power BI | Machine Learning  
+</p>
+  # 👨‍💻 About Me
+
+- 🎓 Graduate student in **Data Analytics (Strategic Business Intelligence)** at LIU  
+- 🤖 Interested in **machine learning, analytics, and AI-powered decision-making**  
+- 🛠 Building ML models, dashboards, search algorithms, and university-level AI labs  
+- 🚀 Currently applying for **Summer 2026 Data Analyst internships**  
+- 📚 Always learning: advanced ML, cloud, deployment, and BI automation  
 
 ---
 
@@ -52,6 +58,28 @@
 
 ## 📁 Featured Projects
 
+### 🔹 Fake News Detection (Machine Learning)
+Classifies real vs fake news using TF-IDF + Logistic Regression.  
+📂 Repo: https://github.com/bhavya-data-analysis/Fake-News-Detection
+
+### 🔹 Quantium Retail Analytics (Business Case Study)
+Analyzed customer purchasing patterns, performed uplift testing, and generated insights for trial stores.  
+📂 Repo: https://github.com/bhavya-data-analysis/Quantium-Retail-Analytics
+
+### 🔹 Sleep vs Screen – Mental Health Analysis
+Exploratory data analysis on how screen time affects sleep patterns and stress levels.  
+📂 Repo: https://github.com/bhavya-data-analysis/Sleep-Screen-Analysis
+
+### 🔹 University Admission Prediction (Regression Model)
+Built a regression model to predict graduate admissions using GPA, GRE, and research experience.  
+📂 Repo: https://github.com/bhavya-data-analysis/Admissions-ML
+
+## 🚧 Currently Working On
+- Upgrading ML projects with better documentation  
+- Building professional GitHub project templates  
+- Improving Power BI dashboards & analytics case studies  
+- Preparing a full data portfolio with 8–10 polished projects  
+
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
@@ -89,21 +117,11 @@ Implemented:
 ---
 
 ## 📫 Contact
-📧 **bhavyapandya005@gmail.com**  
-💼 **LinkedIn:** https://www.linkedin.com/in/bhavyapandya91-p/
-## Hi there 👋
+📧 Email: **bhavyapandya005@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/bhavya-91p/**  
+🔗 GitHub: **https://github.com/bhavya-data-analysis**
 
-<!--
-**bhavya-data-analysis/Bhavya-data-analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
