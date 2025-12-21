@@ -40,7 +40,8 @@ Focused on Machine Learning, Applied Data Science, and Analytics Systems
 ### 📈 RL-Forex — Reinforcement Learning Trading Agent
 | Description | Preview |
 |------------|---------|
-| Reinforcement learning agent for simulated forex trading using PPO. Emphasizes environment design, reward shaping, and evaluation of policy behavior across different market conditions. | _Preview coming soon_ |
+| Reinforcement learning agent for simulated forex trading using PPO. Emphasizes environment design, reward shaping, and evaluation of policy behavior across different market conditions. | <img src="https://raw.githubusercontent.com/bhavya-data-analysis/rl-forex/main/results/equity/log_equity_all_pairs.png" width="260"/>
+ |
 🔗 https://github.com/bhavya-data-analysis/rl-forex
 
 ---
