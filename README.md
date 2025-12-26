@@ -17,7 +17,7 @@ Focused on Machine Learning, Applied Data Science, and Analytics Systems
 ## 🧠 Core Technical Skills
 - **Programming:** Python, SQL, R  
 - **Machine Learning:** Logistic & Linear Regression, Decision Trees, CNNs, Time-Series Models, Reinforcement Learning (PPO)  
-- **Data Science:** EDA, Feature Engineering, Model Evaluation  
+- **Data Science:** EDA, Feature Engineering, Model Evaluation, Computer Vision
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis, Trend & KPI Analysis  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
 - **AI Concepts:** Search Algorithms (BFS, DFS, A*, Minimax), Bayesian Networks  
