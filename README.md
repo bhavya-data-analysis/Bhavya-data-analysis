@@ -2,90 +2,99 @@
 
 <p align="center">
 Data Analytics Graduate Student @ LIU<br/>
-Focused on Machine Learning, Applied Data Science, and Analytics Systems
+Focused on Machine Learning, Applied Data Science, and Human-Centered Analytics Systems
 </p>
 
 ---
 
 ## 🚀 What I Work On
-- Building **end-to-end data science and machine learning projects** — from data preprocessing and feature engineering to modeling, evaluation, and deployment.  
-- Performing **data analysis and exploratory analysis** to uncover patterns, trends, and insights from real-world datasets.  
-- Developing **analytics, dashboards, and ML-driven solutions** that support practical, data-backed decision making.
+- Building <strong>end-to-end data science and machine learning systems</strong> — from data preprocessing and feature engineering to modeling, evaluation, and deployment.  
+- Developing <strong>human-in-the-loop and decision-focused systems</strong> that model feedback, learning behavior, and decision quality over time.  
+- Creating <strong>analytics, dashboards, and ML-driven solutions</strong> that support practical, data-backed decision making.
 
 ---
 
 ## 🧠 Core Technical Skills
-- **Programming:** Python, SQL, R  
-- **Machine Learning:** Logistic & Linear Regression, Decision Trees, CNNs, Time-Series Models, Reinforcement Learning (PPO)  
-- **Data Science:** EDA, Feature Engineering, Model Evaluation, Computer Vision
-- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis, Trend & KPI Analysis  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
-- **AI Concepts:** Search Algorithms (BFS, DFS, A*, Minimax), Bayesian Networks  
-- **Tools:** Scikit-Learn, TensorFlow, Pandas, Git, Streamlit, Jupyter  
-
+- <strong>Programming:</strong> Python, SQL, R  
+- <strong>Machine Learning:</strong> Logistic & Linear Regression, Decision Trees, CNNs, Time-Series Models, Reinforcement Learning (PPO)  
+- <strong>Data Science:</strong> EDA, Feature Engineering, Model Evaluation, Computer Vision  
+- <strong>Data Analysis:</strong> Exploratory Data Analysis (EDA), Data Cleaning, Statistical Analysis, Trend & KPI Analysis  
+- <strong>Visualization:</strong> Power BI, Matplotlib, Seaborn  
+- <strong>AI Concepts:</strong> Search Algorithms (BFS, DFS, A*, Minimax), Bayesian Networks  
+- <strong>Tools:</strong> Scikit-Learn, TensorFlow, Pandas, Git, Streamlit, Jupyter  
 
 ---
 
 ## 📌 Selected Projects
 
+### 🏗️ Human–AI Co-Creative Design System (Architectural Massing)
+| Description | Preview |
+|------------|---------|
+| Human-in-the-loop generative design system that records accept/reject design decisions and adapts future architectural massing outputs. Includes persistent preference memory and explainable mappings from human feedback to system behavior. | Preview coming soon |
+🔗 https://github.com/bhavya-data-analysis/human-ai-co-creative-design
+
+---
+
+### 📊 Sales-Performance-Diagnostics-Reporting
+| Description | Preview |
+|------------|---------|
+| Sales performance diagnostics and reporting system designed to surface KPIs, performance gaps, and decision-relevant business insights through clear analytics and dashboards. | Preview coming soon |
+🔗 https://github.com/bhavya-data-analysis/Sales-Performance-Diagnostics-Reporting
+
+---
+
+### 🧠 Reflective Decision Intelligence (RDI)
+| Description | Preview |
+|------------|---------|
+| Decision quality and cognitive risk modeling system that converts free-form human decisions into structured representations. Focuses on decision fragility, intervention impact, and learning when to intervene versus when to stop. | Preview coming soon |
+🔗 https://github.com/bhavya-data-analysis/reflective-decision-intelligence
+
+---
+
 ### 📰 Fake News Detection — Applied Machine Learning
 | Description | Preview |
 |------------|---------|
-| End-to-end NLP system for fake news classification comparing classical machine learning and deep learning approaches. Focuses on text preprocessing, model evaluation, and deployment-ready pipelines using reproducible artifacts. | <img src="https://raw.githubusercontent.com/bhavya-data-analysis/Fake-News-Detection-app/79460d9d8c33656bd58a26721c4801f813752eee/Fake_News_Cloud_Dashboard.png" width="260"/>
- |
+| End-to-end NLP system for fake news classification comparing classical machine learning and deep learning approaches. Emphasizes preprocessing, evaluation, and deployment-ready pipelines. | Preview coming soon |
 🔗 https://github.com/bhavya-data-analysis/Fake-News-Detection-app
 
 ---
 
-### 📈 RL-Forex — Reinforcement Learning Trading Agent
+### 🗑️ Computer Vision — Trash Detection (YOLOv8)
 | Description | Preview |
 |------------|---------|
-| Reinforcement learning agent for simulated forex trading using PPO. Emphasizes environment design, reward shaping, and evaluation of policy behavior across different market conditions. | <img src="https://raw.githubusercontent.com/bhavya-data-analysis/rl-forex/main/results/equity/log_equity_all_pairs.png" width="260"/>
- |
-🔗 https://github.com/bhavya-data-analysis/rl-forex
+| Object detection system using YOLOv8 to identify and localize trash in images. Focuses on dataset preparation, model training, and visual evaluation of detection performance. | Preview coming soon |
+🔗 https://github.com/bhavya-data-analysis/Computer-Vision-Project-Trash-Detection-YOLOv8
 
 ---
 
-### 🧠 AI-680 Labs — Intelligent Agents & Search
+### 📈 JP Dashboard
 | Description | Preview |
 |------------|---------|
-| Graduate-level implementations of intelligent agents and classical AI algorithms, including informed and uninformed search, game-playing agents, and probabilistic reasoning models. | _Preview coming soon_ |
-🔗 https://github.com/bhavya-data-analysis/AI-680-Lab
+| KPI-focused analytics dashboard designed for monitoring trends and performance with an emphasis on clarity and stakeholder usability. | Preview coming soon |
+🔗 https://github.com/bhavya-data-analysis/JP_Dashboard
 
 ---
 
-### ✉️ Send-It — AI Text Intelligence Application
-| Description | Preview |
-|------------|---------|
-| AI-powered text rewriting application designed to transform raw user input into clearer, professional, or neutral language. Built as a user-facing NLP system with a FastAPI backend and prompt-driven logic. | _Preview coming soon_ |
-🔗 https://github.com/bhavya-data-analysis/send-it
+## GitHub Activity & Stats
 
----
-
-### 📊 X-Company AI Sales Dashboard
-| Description | Preview |
-|------------|---------|
-| Executive-style analytics dashboard built to surface sales KPIs, performance trends, and business insights. Designed with a strong emphasis on clarity, stakeholder usability, and data storytelling. | <img src="https://raw.githubusercontent.com/bhavya-data-analysis/X_Company-AI-Sales-Dashboard/main/Sales_Dashboard.png" width="260"/>
- |
-🔗 https://github.com/bhavya-data-analysis/X_Company-AI-Sales-Dashboard
-
----
-
-### 🌐 Personal Portfolio Website
-| Description | Preview |
-|------------|---------|
-| Personal data science portfolio showcasing machine learning projects, analytics dashboards, and case studies with a recruiter-focused layout and clean visual storytelling. | _Preview coming soon_ |
-🔗 https://github.com/bhavya-data-analysis/my-portfolio
-
-## 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya-data-analysis&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/bhavya-data-analysis">
+    <img src="https://github-readme-stats.vercel.app/api?username=bhavya-data-analysis&show_icons=true&theme=transparent&hide_border=true" />
+  </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-data-analysis&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/bhavya-data-analysis">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavya-data-analysis&theme=transparent&hide_border=true" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/bhavya-data-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-data-analysis&layout=compact&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 
@@ -97,7 +106,7 @@ Focused on Machine Learning, Applied Data Science, and Analytics Systems
 ---
 
 ## 📫 Connect
-- 📧 **bhavyapandya005@gmail.com**  
+- 📧 <strong>bhavyapandya005@gmail.com</strong>  
 - 🔗 LinkedIn: https://www.linkedin.com/in/bhavya-91p/  
-- 💻 GitHub: https://github.com/bhavya-data-analysis
-- Portfolio : https://bhavya-pandya-portfolio.vercel.app
+- 💻 GitHub: https://github.com/bhavya-data-analysis  
+- 🌐 Portfolio: https://bhavya-pandya-portfolio.vercel.app
